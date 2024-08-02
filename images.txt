@@ -1,12 +1,3 @@
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.39.0@sha256:c8ef49937b7f0d9c0f4753c6c5e809711490225c4dc00115981d0a484b248350
-ghcr.io/distroless/busybox@sha256:19f02276bf8dbdd62f069b922f10c65262cc34b710eea26ff928129a736be791
-gcr.io/google.com/cloudsdktool/cloud-sdk@sha256:27b2c22bf259d9bc1a291e99c63791ba0c27a04d2db0a43241ba0f1f20f4067f
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/kubeconfigwriter:v0.39.0@sha256:712f7be864852519e4091b40de10721ce9f0d48218398820bee3069fee5ee1a7
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.39.0@sha256:3a1d3e57692e96663c76e4909ef5ef555a936eb599bc46175221ab4c94e4ec52
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.39.0@sha256:e0afeceb58d73b7c162a8f2aac5b2addf8527d11750e4e885cc4178b65627afb
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.39.0@sha256:267dcd865a41dab421a934341ff19fe681c006a922fb84d3eb17033eab4d4374
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.39.0@sha256:65c708b411c0849b9d009dc2b342f14aff2d4f5977d223acdbbcced77de15845
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.39.0@sha256:d9c523f32562d0af4dcf9fbf4a883dfbe2cabf2207934564487d6f6b46cfd90f
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.39.0@sha256:01c8e99b7dcf842c64dde2ca4c3c9dc557a5c7ab28040f132c9ea003ab89e6c7
-mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
 gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.39.0@sha256:932a1536223ea48d3bb36d4934830b767d46d44479e9fd4d95dc751e4bf0e365
+mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
+

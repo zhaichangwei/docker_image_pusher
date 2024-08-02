@@ -1,3 +1,2 @@
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.39.0@sha256:932a1536223ea48d3bb36d4934830b767d46d44479e9fd4d95dc751e4bf0e365
-mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
+gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.39.0@sha256:93dd10e7e49e7d409721b27e19ebbde21fd7ef263ea07e256580621428976eb4
 

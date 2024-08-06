@@ -1,1 +1,1 @@
-rancher/rancher:stable
+rancher/rancher-agent:v2.8.5

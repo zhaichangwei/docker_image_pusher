@@ -1,1 +1,1 @@
-quay.io/prometheus/nginx-exporter:v0.12.0
+nginx-exporter:v0.12.0

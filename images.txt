@@ -1,1 +1,1 @@
-nginx/nginx-prometheus-exporter:v0.12.0
+fluent/fluentd-kubernetes-daemonset:v1.17.0-debian-elasticsearch8-1.3

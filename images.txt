@@ -1,1 +1,1 @@
-fluent/fluentd-kubernetes-daemonset:v1.17.0-debian-elasticsearch8-1.3
+fluent/fluentd-kubernetes-daemonset:v1.16.5-debian-elasticsearch8-1.3

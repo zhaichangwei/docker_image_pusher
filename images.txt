@@ -1,2 +1,2 @@
-quay.io/prometheus/alertmanager:0.17.0
-
+#quay.io/prometheus/alertmanager:0.17.0
+alertmanager:0.17.0

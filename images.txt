@@ -1,2 +1,2 @@
 #quay.io/prometheus/alertmanager:0.16.2
-prom/alertmanager:0.16.2
+nginx:1.22.0

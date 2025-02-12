@@ -1,1 +1,1 @@
-juicedata/mount:ce-v1.0.4
+quay.io/prometheus/alertmanager:0.16.2

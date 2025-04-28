@@ -1,2 +1,1 @@
-#quay.io/prometheus/alertmanager:0.17.0
-alertmanager:0.17.0
+alpine:3.21.3

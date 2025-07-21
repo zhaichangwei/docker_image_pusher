@@ -1,1 +1,3 @@
-grafana/grafana:10.1.6
+prom/mysqld-exporter:v0.15.1
+bitnami/mongodb-exporter:0.41.2
+bitnami/elasticsearch-exporter:1.7.0

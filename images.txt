@@ -1,3 +1,4 @@
 #mongodb/mongodb-exporter:0.11.0
-bitnami/mongodb-exporter:0.39.0
-percona/mongodb_exporter:0.20.7
+#bitnami/mongodb-exporter:0.39.0
+#percona/mongodb_exporter:0.20.7
+prom/mongodb-exporter:v0.11.2

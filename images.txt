@@ -1,4 +1,6 @@
 #mongodb/mongodb-exporter:0.11.0
 #bitnami/mongodb-exporter:0.39.0
 #percona/mongodb_exporter:0.20.7
-quay.io/prometheus-community/mongodb-exporter:v0.11.2
+quay.io/prometheus/alertmanager:v0.25.0
+quay.io/prometheus/alertmanager:v0.24.0
+prom/mongodb-exporter:v0.20.5

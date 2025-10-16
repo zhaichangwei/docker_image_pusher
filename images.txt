@@ -1,3 +1,2 @@
 oliver006/redis_exporter:v1.54.0
 percona/redis_exporter:1.54.0
-registry.cn-hangzhou.aliyuncs.com/acs/redis-exporter:v1.54.0

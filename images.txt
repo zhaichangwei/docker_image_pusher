@@ -1,1 +1,1 @@
-oliver006/redis_exporter:v1.54.0
+prom/prometheus:v2.50.0
